@@ -11,11 +11,10 @@ That page is desingned for a rock band to promote their music, identity, and upc
 
 
 ## Project Structure
-
-index.html          # Main HTML structure
-styles.css          # Stylesheets with responsive design
-script.js           # Interactive functionalities
-img/             # Folder for band and concert images
+* index.html: Main HTML structure
+* styles.css: Stylesheets with responsive design
+* script.js: Interactive functionalities
+* img/: Folder for band and concert images
 
 ## How see the page
 
